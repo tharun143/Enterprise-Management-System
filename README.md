@@ -34,6 +34,8 @@ By this, we can make sure that the transaction is not lost and delivered.
 - Status
 - Comment access
 
+To know more about the project and to understand the code base refer Reports section.
+
 # Installation Guide :inbox_tray:
 
 Follow the below instructions to set up the environment in your host system.
